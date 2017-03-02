@@ -37,6 +37,4 @@ You should see something like below once it's ready to roll:
 	2017-03-02 15:54:03.586:INFO:oejs.AbstractConnector:Started SelectChannelConnector@0.0.0.0:3000
 	Started server on port 3000
 
-## License
-
-Copyright © 2017 FIXME
+Access the following url for a test webpage: http://localhost:3000/index.html
