@@ -1,6 +1,6 @@
 (defproject clj-stamp-duty "0.0.0-SNAPSHOT"
   :description "A lightweight standup of a stamp duty calculator"
-  :url "http://example.com/FIXME"
+  :url "http://example.com/FIXED"
   :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [compojure "1.5.1"]
